@@ -11,6 +11,7 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	
 </div>
+
 <div id="tools">
 	<h4>🔨Tools</h4>
 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
@@ -19,14 +20,14 @@
 
 </div>
 
-<h2>Contact</h2>
+<h2>🔌Contact</h2>
 <div id="contact">
 	<h4>📫mail</h4>
 	jiho.kim.kr@gmail.com
 </div>
 
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=tokyonight)
-
+<h2>📊My Status</h2>
+<div id="api">
+<img src="https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysFinn&layout=compact"><br><br>
 </div>
