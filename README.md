@@ -25,4 +25,8 @@
 	jiho.kim.kr@gmail.com
 </div>
 
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=tokyonight)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+</div>
