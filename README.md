@@ -3,7 +3,8 @@
 Tech Stack
 JAVA
 Python
-Spring
+spring
+PostgreSQL
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=tokyonight)
