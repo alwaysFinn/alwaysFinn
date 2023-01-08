@@ -14,7 +14,7 @@
 <div id="tools">
 	<h4>🔨Tools</h4>
 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Tomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 
 </div>
