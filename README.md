@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <h2>📚Tech Stack</h2>
-JAVA
-Python
-spring
-PostgreSQL
 <div id="languages">
 	<h4>⭐Platforms & Languages</h4>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -24,12 +20,10 @@ PostgreSQL
 
 </div>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=tokyonight)
-
 <h2>Contact</h2>
 <div id="contact">
 	<h4>📫mail</h4>
 	jiho.kim.kr@gmail.com
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=tokyonight)
