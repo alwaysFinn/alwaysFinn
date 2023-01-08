@@ -28,6 +28,6 @@
 
 <h2>📊My Status</h2>
 <div id="api">
-<img src="https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysFinn&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysFinn&layout=compact"><br>
 </div>
