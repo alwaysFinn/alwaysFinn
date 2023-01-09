@@ -28,6 +28,7 @@
 
 <h2>📊My Status</h2>
 <div id="api">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysFinn&layout=dark"><br>
 	<picture>
 		<source 
 		  srcset="https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=dark"
@@ -39,6 +40,5 @@
 		/>
 		<img src="https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=dark" />
 	</picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysFinn&layout=dark"><br>
 </div>
 
