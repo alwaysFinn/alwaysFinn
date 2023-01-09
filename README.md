@@ -37,8 +37,8 @@
   srcset="https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=alwaysFinn&show_icons=true&theme=radical" />
+</picture><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysFinn&layout=dark"><br>
 </div>
 
