@@ -1,7 +1,4 @@
 ### Hi there 👋
-I Like
-
-I Study
 
 <h2>📚Tech Stack</h2>
 <div id="languages">
