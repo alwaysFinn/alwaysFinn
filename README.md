@@ -20,8 +20,8 @@
 
 </div>
 
-<h2>🔌Contact</h2>
 <div id="contact">
+	<h2>🔌Contact</h2>
 	<h4>📫mail</h4>
 	jiho.kim.kr@gmail.com
 </div>
